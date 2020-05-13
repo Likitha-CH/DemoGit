@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="64" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="64" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+      <class name="demoMaven.AppiumTest">
+        <test-method status="PASS" signature="demoAppium()[pri:0, instance:demoMaven.AppiumTest@5b464ce8]" name="demoAppium" duration-ms="11" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoAppium -->
+        <test-method status="PASS" signature="demoAppium1()[pri:0, instance:demoMaven.AppiumTest@5b464ce8]" name="demoAppium1" duration-ms="1" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoAppium1 -->
+      </class> <!-- demoMaven.AppiumTest -->
+      <class name="demoMaven.RestAssuredTest">
+        <test-method status="PASS" signature="demoRest()[pri:0, instance:demoMaven.RestAssuredTest@17c68925]" name="demoRest" duration-ms="1" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoRest -->
+        <test-method status="PASS" signature="demoRest1()[pri:0, instance:demoMaven.RestAssuredTest@17c68925]" name="demoRest1" duration-ms="0" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoRest1 -->
+      </class> <!-- demoMaven.RestAssuredTest -->
+      <class name="demoMaven.WebTest">
+        <test-method status="PASS" signature="demoWeb()[pri:0, instance:demoMaven.WebTest@7e0ea639]" name="demoWeb" duration-ms="1" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoWeb -->
+        <test-method status="PASS" signature="demoWeb1()[pri:0, instance:demoMaven.WebTest@7e0ea639]" name="demoWeb1" duration-ms="0" started-at="2020-04-24T12:38:18Z" finished-at="2020-04-24T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demoWeb1 -->
+      </class> <!-- demoMaven.WebTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
